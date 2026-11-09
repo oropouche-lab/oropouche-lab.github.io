@@ -3,7 +3,7 @@
 Aplicación web educativa e interactiva sobre el virus Oropouche (OROV), la metagenómica y las
 tecnologías de secuenciación de lectura larga. Proyecto universitario.
 
-**Ver la aplicación:** https://edwjeanpaul-dev.github.io/oropouche-metagenomica/
+**Ver la aplicación:** https://oropouche-lab.github.io/
 
 ## Qué incluye
 
